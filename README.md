@@ -32,5 +32,4 @@
 <a href="https://instagram.com/cyrus_mkc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cyrus_mkc" height="30" width="40" /></a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cyrusmanosa&show_icons=true&locale=en&layout=compact" alt="cyrusmanosa" /></p>
 
