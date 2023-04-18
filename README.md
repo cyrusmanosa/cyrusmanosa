@@ -30,7 +30,7 @@
 <a href="https://linkedin.com/in/cyrus man" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cyrus man" height="30" width="40" /></a>
 <a href="https://fb.com/man ka chun" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="man ka chun" height="30" width="40" /></a>
 <a href="https://instagram.com/cyrus_mkc" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cyrus_mkc" height="30" width="40" /></a>
-</p>
+</p><br>
 
 
 <h3 align="left">🔥 My Stats :</h3>
