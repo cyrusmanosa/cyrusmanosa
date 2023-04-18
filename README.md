@@ -32,7 +32,8 @@
 <a href="https://instagram.com/cyrus_mkc" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cyrus_mkc" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">🔥   My Stats :</h3>
+
+<h3 align="left">🔥 My Stats :</h3>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
