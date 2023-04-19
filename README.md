@@ -17,7 +17,7 @@
 
 <h3 align="left">Learning Now:</h3>
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=go,js,laravel," />
+    <img src="https://skillicons.dev/icons?i=go,js,laravel,react" />
 </p>
 
 
