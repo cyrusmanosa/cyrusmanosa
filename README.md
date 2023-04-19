@@ -12,8 +12,8 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ps,ai,pr,ae,au," />
-   <img src="https://skillicons.dev/icons?i=mysql,html,css,php,vscode,idea,androidstudio,arduino,github," />
+  <img src="https://skillicons.dev/icons?i=ps,ai,pr,ae,au," /><br>
+  <img src="https://skillicons.dev/icons?i=mysql,html,css,php,vscode,idea,androidstudio,arduino,github," />
 </p>
 
 <h3 align="left">Learning Now:</h3>
