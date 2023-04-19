@@ -12,16 +12,12 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ps,ai,pr,ae,au,idea,mysql,html,css,php,vscode,github," />
-  </a>
+  <img src="https://skillicons.dev/icons?i=ps,ai,pr,ae,au,idea,mysql,html,css,php,vscode,github," />
 </p>
 
 <h3 align="left">Learning Now:</h3>
 <p align="left">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=go,js,laravel," />
-  </a>
 </p>
 
 
