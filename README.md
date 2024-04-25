@@ -12,13 +12,16 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left">
+  <h4>Video Edit</h4>
   <img src="https://skillicons.dev/icons?i=ps,pr,ae,au," /><br>
-  <img src="https://skillicons.dev/icons?i=mysql,html,css,php,vscode,go,idea,androidstudio,arduino,docker,flutter" />
+  <h4>IT</h4>
+  <img src="https://skillicons.dev/icons?i=mysql,html,css,php,vscode,go,idea,androidstudio,arduino,docker,flutter,figma,dart"/>
+  
 </p>
 
 <h3 align="left">Learning Now:</h3>
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=js,linux,react,github" />
+    <img src="https://skillicons.dev/icons?i=aws,js,linux,react,github" />
 </p>
 
 
