@@ -13,15 +13,16 @@
 
 <p align="left">
   <h4>Software</h4>
-  <img src="https://skillicons.dev/icons?i=ps,pr,ae,au," /><br>
+  <img src="https://skillicons.dev/icons?i=ps,pr,ae,au" /><br>
   <h4>Languages</h4>
-  <img src="https://skillicons.dev/icons?i=mysql,html,css,php,vscode,go,idea,androidstudio,arduino,docker,flutter,figma,dart"/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,html,css,php,go,androidstudio,arduino,docker,flutter,dart"/>
   <h4>Tools</h4>
+  <img src="https://skillicons.dev/icons?i=vscode,idea,figma"/>
 </p>
 
 <h3 align="left">Learning Now:</h3>
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=aws,js,linux,react,github" />
+    <img src="https://skillicons.dev/icons?i=aws,js,linux,react,github,py,raspberrypi,ubuntu" />
 </p>
 
 
