@@ -9,14 +9,14 @@
 
 - 📄 Know about my experiences [Portfolio](https://profile-ce15f.web.app)
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Computer Skills</h3>
 
 <p align="left">
-  <h4>Video Edit</h4>
+  - Software :
   <img src="https://skillicons.dev/icons?i=ps,pr,ae,au," /><br>
-  <h4>IT</h4>
+  - Languages :
   <img src="https://skillicons.dev/icons?i=mysql,html,css,php,vscode,go,idea,androidstudio,arduino,docker,flutter,figma,dart"/>
-  
+  - Tools :
 </p>
 
 <h3 align="left">Learning Now:</h3>
