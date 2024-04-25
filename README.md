@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I am Cyrus</h1>
 <h3 align="center">A passionate frontend developer from Osaka</h3>
-
 <p align="left"><img src="https://komarev.com/ghpvc/?username=cyrusmanosa&label=Profile%20views&color=0e75b6&style=flat" alt="cyrusmanosa" /></p>
 
 - 🌱 I’m currently learning IT in Japan
