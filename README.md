@@ -18,7 +18,7 @@
 
 <h3 align="left">Learning Now:</h3>
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=,js,linux,react,github" />
+    <img src="https://skillicons.dev/icons?i=js,linux,react,github" />
 </p>
 
 
