@@ -12,11 +12,11 @@
 <h3 align="left">Computer Skills</h3>
 
 <p align="left">
-  - Software :
+  <h4>Software</h4>
   <img src="https://skillicons.dev/icons?i=ps,pr,ae,au," /><br>
-  - Languages :
+  <h4>Languages</h4>
   <img src="https://skillicons.dev/icons?i=mysql,html,css,php,vscode,go,idea,androidstudio,arduino,docker,flutter,figma,dart"/>
-  - Tools :
+  <h4>Tools</h4>
 </p>
 
 <h3 align="left">Learning Now:</h3>
