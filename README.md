@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyrusmanosa&label=Profile%20views&color=0e75b6&style=flat" alt="cyrusmanosa" /></p>
 <h3>🌱 I’m currently learning IT in Japan</h3>
-<h3>📫 How to reach me **Cyrusmanosa@gmail.com</h3>
+<h3>📫 How to reach me Cyrusmanosa@gmail.com</h3>
 <h3>📄 Know about my experiences [Portfolio](https://profile-ce15f.web.app)</h3><br>
 
 <h3 align="left">Computer Skills</h3>
