@@ -18,9 +18,7 @@
 <img align="left" src="https://skillicons.dev/icons?i=vscode,idea,figma"/>
 
 <h3 align="left">Learning Now:</h3>
-<p align="left">
-    <img src="https://skillicons.dev/icons?i=aws,js,linux,react,github,py,raspberrypi,ubuntu" />
-</p>
+<img src="https://skillicons.dev/icons?i=aws,js,linux,react,github,py,raspberrypi,ubuntu" />
 
 
 <h3 align="left">Connect with me:</h3>
