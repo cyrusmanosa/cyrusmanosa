@@ -10,14 +10,12 @@
 - 📄 Know about my experiences [Portfolio](https://profile-ce15f.web.app)
 
 <h3 align="left">Computer Skills</h3>
-  <p align="left">
-    <h4>Software</h4>
-    <img src="https://skillicons.dev/icons?i=ps,pr,ae,au"/>
-    <h4>Languages</h4>
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,html,css,php,go,androidstudio,arduino,docker,flutter,dart"/>
-    <h4>Tools</h4>
-    <img src="https://skillicons.dev/icons?i=vscode,idea,figma"/>
-  </p>
+- Software
+<img align="left" src="https://skillicons.dev/icons?i=ps,pr,ae,au"/>
+- Languages
+<img align="left" src="https://skillicons.dev/icons?i=mysql,postgres,html,css,php,go,androidstudio,arduino,docker,flutter,dart"/>
+- Tools
+<img align="left" src="https://skillicons.dev/icons?i=vscode,idea,figma"/>
 
 <h3 align="left">Learning Now:</h3>
 <p align="left">
