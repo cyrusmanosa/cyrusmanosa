@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **Cyrusmanosa@gmail.com**
 
-- 📄 Know about my experiences [https://manhk123456.wixsite.com/portfolio](https://profile-ce15f.web.app)
+- 📄 Know about my experiences [Portfolio](https://profile-ce15f.web.app)
 
 <h3 align="left">Languages and Tools:</h3>
 
