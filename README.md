@@ -16,11 +16,11 @@
 <h4>Languages</h4>
 <img src="https://skillicons.dev/icons?i=mysql,postgres,html,css,php,go,docker,flutter,dart"/>
 <h4>Tools</h4>
-<img src="https://skillicons.dev/icons?i=vscode,idea,figma,postman,androidstudio,arduino"/>
+<img src="https://skillicons.dev/icons?i=vscode,idea,figma,postman,androidstudio,arduino,ubuntu"/>
 </p>
 
 <h3 align="left">Learning Now:</h3>
-<img src="https://skillicons.dev/icons?i=aws,js,linux,react,github,py,raspberrypi,ubuntu" />
+<img src="https://skillicons.dev/icons?i=aws,js,linux,react,github,py,raspberrypi" />
 
 
 <h3 align="left">Connect with me:</h3>
