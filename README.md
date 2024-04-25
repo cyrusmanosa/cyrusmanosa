@@ -8,19 +8,19 @@
 
 <h3 align="left">Computer Skills</h3>
 
-- Software
+- Media Software
 <img src="https://skillicons.dev/icons?i=,ps,pr,ae,au"/>
 
-- Languages
+- IT Languages
 <img src="https://skillicons.dev/icons?i=,mysql,postgres,html,css,php,go,docker,flutter,dart,laravel,java"/>
 
 - Tools
-<img src="https://skillicons.dev/icons?i=,vscode,idea,figma,postman,androidstudio,arduino,ubuntu,gradle,apple"/>
+<img src="https://skillicons.dev/icons?i=,vscode,idea,figma,postman,androidstudio,arduino,ubuntu,gradle,apple,windows"/>
 
 <br>
 
 <h3 align="left">Learning Now:</h3>
-<img src="https://skillicons.dev/icons?i=aws,firebase,js,linux,react,github,py,raspberrypi" />
+<img src="https://skillicons.dev/icons?i=aws,firebase,js,linux,react,github,py,raspberrypi,anaconda" />
 
 <br>
 
