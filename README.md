@@ -13,12 +13,12 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ps,pr,ae,au," /><br>
-  <img src="https://skillicons.dev/icons?i=mysql,html,css,php,vscode,idea,androidstudio,arduino," />
+  <img src="https://skillicons.dev/icons?i=mysql,html,css,php,vscode,go,idea,androidstudio,arduino,docker,flutter" />
 </p>
 
 <h3 align="left">Learning Now:</h3>
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=go,js,linux,react,github,docker,flutter" />
+    <img src="https://skillicons.dev/icons?i=,js,linux,react,github" />
 </p>
 
 
