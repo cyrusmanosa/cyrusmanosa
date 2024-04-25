@@ -14,9 +14,9 @@
 <h4>Software</h4>
 <img src="https://skillicons.dev/icons?i=ps,pr,ae,au"/>
 <h4>Languages</h4>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,html,css,php,go,androidstudio,arduino,docker,flutter,dart"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,html,css,php,go,docker,flutter,dart"/>
 <h4>Tools</h4>
-<img src="https://skillicons.dev/icons?i=vscode,idea,figma"/>
+<img src="https://skillicons.dev/icons?i=vscode,idea,figma,postman,androidstudio,arduino"/>
 </p>
 
 <h3 align="left">Learning Now:</h3>
