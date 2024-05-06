@@ -8,6 +8,8 @@
 
 <h3 align="left">Computer Skills</h3>
 
+<br>
+
 - Media Software
 <img src="https://skillicons.dev/icons?i=,ps,pr,ae,au"/>
 
