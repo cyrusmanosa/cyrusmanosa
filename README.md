@@ -19,8 +19,6 @@
 - Tools
 <img src="https://skillicons.dev/icons?i=,vscode,idea,figma,postman,androidstudio,arduino,ubuntu,gradle,apple,windows"/>
 
-<br>
-
 <h3 align="left">Learning Now:</h3>
 <img src="https://skillicons.dev/icons?i=aws,firebase,js,linux,react,github,py,raspberrypi,anaconda" />
 
