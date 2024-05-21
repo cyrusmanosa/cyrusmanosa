@@ -15,8 +15,6 @@
 
 - IT Languages
 <img src="https://skillicons.dev/icons?i=,mysql,postgres,html,css,php,go,docker,flutter,dart,laravel,java"/>
-
-- Tools
 <img src="https://skillicons.dev/icons?i=,vscode,idea,figma,postman,androidstudio,arduino,ubuntu,gradle,apple,windows"/>
 
 <h3 align="left">Learning Now:</h3>
