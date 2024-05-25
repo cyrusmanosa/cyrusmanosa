@@ -14,11 +14,11 @@
 <img src="https://skillicons.dev/icons?i=,ps,pr,ae,au"/>
 
 - IT Languages
-<img src="https://skillicons.dev/icons?i=,mysql,postgres,html,css,php,go,docker,flutter,dart,laravel,java"/>
+<img src="https://skillicons.dev/icons?i=,mysql,postgres,html,css,php,go,docker,flutter,dart,react,js,laravel,java"/>
 <img src="https://skillicons.dev/icons?i=,vscode,idea,figma,postman,androidstudio,arduino,ubuntu,gradle,apple,windows,vercel"/>
 
 <h3 align="left">Learning Now:</h3>
-<img src="https://skillicons.dev/icons?i=aws,firebase,js,linux,react,github,py,raspberrypi,anaconda" />
+<img src="https://skillicons.dev/icons?i=aws,firebase,linux,github,py,raspberrypi,anaconda" />
 
 <br>
 
