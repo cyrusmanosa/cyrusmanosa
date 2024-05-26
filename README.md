@@ -16,11 +16,11 @@
 <img src="https://skillicons.dev/icons?i=,ps,pr,ae,au"/>
 
 - IT Languages
-<img src="https://skillicons.dev/icons?i=,mysql,postgres,html,css,go,docker,flutter,dart,react,js,vite,php,laravel,java,"/>
-<img src="https://skillicons.dev/icons?i=,vscode,idea,figma,postman,androidstudio,arduino,ubuntu,gradle,apple,windows,vercel,notion,npm,yarn,ubuntu"/>
+<img src="https://skillicons.dev/icons?i=,mysql,postgres,html,css,go,docker,flutter,dart,react,js,vite,java,vscode"/>
+<img src="https://skillicons.dev/icons?i=,ubuntu,idea,figma,postman,androidstudio,arduino,ubuntu,apple,windows,vercel,notion,npm,yarn"/>
 
 <h3 align="left">Learning Now:</h3>
-<img src="https://skillicons.dev/icons?i=aws,firebase,linux,github,py,ts,vue,raspberrypi,anaconda,kubernetes,mongodb,redis" />
+<img src="https://skillicons.dev/icons?i=php,laravel,aws,firebase,linux,github,py,ts,vue,raspberrypi,anaconda,kubernetes,mongodb,redis" />
 
 <br>
 
