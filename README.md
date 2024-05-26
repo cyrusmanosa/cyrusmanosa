@@ -4,8 +4,10 @@
 
 - 🌱 I’m currently learning IT in Japan
 - 📫 How to reach me Cyrusmanosa@gmail.com
-- 📄 Know about my experiences [Portfolio](https://profile-ce15f.web.app)
-
+- 📄 Know about my experiences: 
+  [Portfolio2022](https://profile-ce15f.web.app)
+  [Portfolio2024]([https://profile-ce15f.web.app](https://portfolio-2024-eight-tau.vercel.app/))
+  
 <h3 align="left">Computer Skills</h3>
 
 <br>
