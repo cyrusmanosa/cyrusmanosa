@@ -20,7 +20,7 @@
 <img src="https://skillicons.dev/icons?i=,ubuntu,idea,figma,postman,androidstudio,arduino,ubuntu,apple,windows,vercel,notion,npm,yarn"/>
 
 <h3 align="left">Learning Now:</h3>
-<img src="https://skillicons.dev/icons?i=php,laravel,aws,firebase,linux,github,py,ts,vue,raspberrypi,anaconda,kubernetes,mongodb,redis" />
+<img src="https://skillicons.dev/icons?i=php,laravel,aws,firebase,linux,github,py,ts,vue,anaconda,kubernetes,mongodb,redis" />
 
 <br>
 
