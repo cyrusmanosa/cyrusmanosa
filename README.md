@@ -8,8 +8,6 @@
   [Portfolio2022](https://profile-ce15f.web.app)
   [Portfolio2024](https://portfolio-2024-eight-tau.vercel.app)
   
-<h3 align="left">Computer Skills</h3>
-
 <br>
 
 - Media Software
