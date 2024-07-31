@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Osaka</h3>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=cyrusmanosa&label=Profile%20views&color=0e75b6&style=flat" alt="cyrusmanosa" /></p>
 
-- 🌱 I’m currently learning IT in Japan
+- 🌱 I’m currently studying IT in Japan
 - 📫 How to reach me Cyrusmanosa@gmail.com
 - 📄 Know about my experiences: 
   [Portfolio2022](https://profile-ce15f.web.app)
