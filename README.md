@@ -24,8 +24,8 @@
 <br>
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=cyrusmanosa&show_icons=true&theme=tokyonight" alt="Anurag's GitHub stats" style="display: inline-block; width: 45%;" />
+  <img src="https://streak-stats.demolab.com?user=cyrusmanosa&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" alt="streak graph" style="display: inline-block; width: 48%;" />
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cyrusmanosa&show_icons=true&theme=tokyonight)
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cyrusmanosa)](https://github.com/anuraghazra/github-readme-stats)
