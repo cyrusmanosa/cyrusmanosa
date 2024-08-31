@@ -13,7 +13,7 @@
 - Media Software
 <img src="https://skillicons.dev/icons?i=,ps,pr,ae,au"/>
 
-- IT Languages
+- IT Languages & System
 <img src="https://skillicons.dev/icons?i=,html,css,js,go,docker,flutter,postman,arduino,mysql,postgres,dart,react,vite,materialui"/>
 <img src="https://skillicons.dev/icons?i=,ubuntu,idea,figma,androidstudio,ubuntu,apple,windows,vercel,notion,npm,yarn,vscode,java,linux"/>
 <img src="https://skillicons.dev/icons?i=,github"/>
