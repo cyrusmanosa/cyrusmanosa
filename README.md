@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I am Cyrus</h1>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=cyrusmanosa&label=Profile%20views&color=0e75b6&style=flat" alt="cyrusmanosa" /></p>
 
-- 🌱 I’m currently studying IT in Japan
+- 🌱 I’m currently studying IT Development in Japan
 - 📫 How to reach me Cyrusmanosa@gmail.com
 - 📄 Know about my experiences: 
   [Portfolio2024](https://portfolio-2024-eight-tau.vercel.app)
