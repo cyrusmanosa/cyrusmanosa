@@ -5,8 +5,8 @@
 - 🌱 I’m currently studying IT in Japan
 - 📫 How to reach me Cyrusmanosa@gmail.com
 - 📄 Know about my experiences: 
-  [Portfolio2022](https://profile-ce15f.web.app)
   [Portfolio2024](https://portfolio-2024-eight-tau.vercel.app)
+  [Portfolio2022](https://profile-ce15f.web.app)
   
 <br>
 
