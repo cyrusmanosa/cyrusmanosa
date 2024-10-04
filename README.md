@@ -14,7 +14,7 @@
 
 - IT Languages & System
 <img src="https://skillicons.dev/icons?i=,html,css,js,go,docker,postman,arduino,mysql,postgres,dart,react"/>
-<img src="https://skillicons.dev/icons?i=,ubuntu,figma,androidstudio,ubuntu,apple,windows,vercel,vscode,java,linux,github"/>
+<img src="https://skillicons.dev/icons?i=,ubuntu,figma,ubuntu,apple,windows,vercel,vscode,java,linux,github"/>
 
 <h3 align="left">Learning Now:</h3>
 <img src="https://skillicons.dev/icons?i=php,laravel,aws,firebase,py,ts,vue,anaconda,kubernetes,mongodb,redis,azure,jenkins"/>
