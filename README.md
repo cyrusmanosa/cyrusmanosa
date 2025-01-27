@@ -23,7 +23,6 @@
 
 <div style="display: flex; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api?username=cyrusmanosa&show_icons=true&theme=tokyonight" alt="Anurag's GitHub stats" style="width: 45%;" />
-  <img src="https://streak-stats.demolab.com?user=cyrusmanosa&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" alt="streak graph" style="width: 48%;" />
 </div>
 
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=cyrusmanosa)](https://github.com/anuraghazra/github-readme-stats)
