@@ -13,7 +13,7 @@
 <img src="https://skillicons.dev/icons?i=,ps,pr,ae,au"/>
 
 - IT Languages & OS
-<img src="https://skillicons.dev/icons?i=,html,css,js,go,docker,postman,arduino,mysql,postgres,dart,react"/>
+<img src="https://skillicons.dev/icons?i=,html,css,js,go,docker,postman,arduino,mysql,postgres,dart,react,vite"/>
 <img src="https://skillicons.dev/icons?i=,nextjs,linux,ubuntu,figma,apple,windows,vercel,vscode,java,github,aws,redis"/>
 
 - Keep Learning:
