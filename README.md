@@ -14,10 +14,10 @@
 
 - IT Languages & OS
 <img src="https://skillicons.dev/icons?i=,html,css,js,go,docker,postman,arduino,mysql,postgres,dart,react"/>
-<img src="https://skillicons.dev/icons?i=,nextjs,linux,ubuntu,figma,apple,windows,vercel,vscode,java,github,"/>
+<img src="https://skillicons.dev/icons?i=,nextjs,linux,ubuntu,figma,apple,windows,vercel,vscode,java,github,aws,redis"/>
 
 - Keep Learning:
-<img src="https://skillicons.dev/icons?i=,php,laravel,aws,firebase,py,ts,vue,anaconda,kubernetes,mongodb,redis,azure,jenkins"/>
+<img src="https://skillicons.dev/icons?i=,php,laravel,firebase,py,ts,vue,anaconda,kubernetes,mongodb,azure,jenkins"/>
 
 <br>
 
