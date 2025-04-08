@@ -15,10 +15,10 @@
 - IT Languages & OS
 <img src="https://skillicons.dev/icons?i=,html,css,js,go,docker,postman,arduino,mysql,postgres,dart,react,vite"/>
 <img src="https://skillicons.dev/icons?i=,nextjs,linux,ubuntu,figma,apple,windows,vercel,vscode,java,github,aws,redis"/>
-<img src="https://skillicons.dev/icons?i=,firebase"/>
+<img src="https://skillicons.dev/icons?i=,firebase,nodejs"/>
 
 - Currently Learning:
-<img src="https://skillicons.dev/icons?i=,php,laravel,py,ts,vue,anaconda,kubernetes,mongodb,azure,jenkins,kafka,nodejs"/>
+<img src="https://skillicons.dev/icons?i=,php,laravel,py,ts,vue,anaconda,kubernetes,mongodb,azure,jenkins,kafka,express"/>
 
 <br>
 
