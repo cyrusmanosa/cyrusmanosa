@@ -18,7 +18,7 @@
 <img src="https://skillicons.dev/icons?i=,firebase,py,nodejs,express,mongodb"/>
 
 - Currently Learning:
-<img src="https://skillicons.dev/icons?i=,php,laravel,ts,vue,anaconda,kubernetes,azure,jenkins,kafka"/>
+<img src="https://skillicons.dev/icons?i=,php,laravel,ts,vue,anaconda,kubernetes,azure,jenkins,kafka,graphql"/>
 
 <br>
 
