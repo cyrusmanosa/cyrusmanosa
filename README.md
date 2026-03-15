@@ -4,7 +4,7 @@
 - 🌱 I studied IT Development in Osaka and returned to Hong Kong.
 - 📫 How to reach me Cyrusmanosa@gmail.com
 - 📄 Know about my experiences: 
-  [Portfolio2024](https://portfolio-2024-eight-tau.vercel.app)
+  [Portfolio2024](https://portfolio2024.cyrus-mkc.com/)
   [Portfolio2022](https://profile-ce15f.web.app)
   
 <br>
